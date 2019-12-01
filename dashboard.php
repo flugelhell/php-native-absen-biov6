@@ -21,6 +21,8 @@ if (!isset($_SESSION['data'])) {
     <div class="container">
         <div class="row">
             <a class="btn" href="add_log.php">Log Me</a>
+            <a class="btn" href="add_log_in.php">Log Me In</a>
+            <a class="btn" href="add_log_out.php">Log Me Out</a>
             <a class="btn" href="del_log.php">Delete Log</a>
             <a class="btn" href="logout.php">Logout</a>
         </div>
